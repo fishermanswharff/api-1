@@ -1,3 +1,5 @@
+[![Travis build status](https://travis-ci.org/bahmutov/xplain.png?branch=master)](https://travis-ci.org/bahmutov/xplain)
+
 GA WDI Project 2: Shaai, Matt & Jason
 ===
 [Bob's Bagels: E-Commerce web application for GA WDI Project 2](http://bobsbagels.github.io/webapp/)
