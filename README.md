@@ -1,4 +1,4 @@
-[![Travis build status](https://travis-ci.org/bahmutov/xplain.png?branch=master)](https://travis-ci.org/bahmutov/xplain)
+[![Travis build status](https://travis-ci.org/bahmutov/xplain.png?branch=master)](https://travis-ci.org/bahmutov/xplain) [![Code Climate](https://codeclimate.com/github/fishermanswharff/api-1/badges/gpa.svg)](https://codeclimate.com/github/fishermanswharff/api-1)
 
 GA WDI Project 2: Shaai, Matt & Jason
 ===
