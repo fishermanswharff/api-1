@@ -16,5 +16,5 @@ This project was completed to meet the requirements for Project 2 of General Ass
 * E-Commerce API: Rails API to manage the ordering and product management
 * [Client facing web application](https://github.com/fishermanswharff/webapp) 
 
-[ci-image]: https://travis-ci.org/fishermanswharff/wdi_7_rails_lab_hn_api.svg?branch=master
-[ci-url]: https://travis-ci.org/fishermanswharff/wdi_7_rails_lab_hn_api
+[ci-image]: https://travis-ci.org/fishermanswharff/api-1.svg?branch=master
+[ci-url]: https://travis-ci.org/fishermanswharff/api-1
